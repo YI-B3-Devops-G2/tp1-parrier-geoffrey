@@ -1,6 +1,6 @@
 # tp1-geoffrey-parrier
 
-Il vous faut Vagrant et VirtualBox 6.0.
+Il vous faut <a>Vagrant</a> et VirtualBox 6.0.
 
 Ensuite placez-vous dans le dossier et lancez la commande `vagrant up`
 

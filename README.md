@@ -26,10 +26,32 @@ nginx`
 
 ## Installation / How to start
 
-1* 
+1. Clone this repository `https://github.com/YI-B3-Devops/tp1-parrier-geoffrey`.
+1. Execute `vagrant up` and wait for the end of the installation and configuration.
+1. Your done ! The environment is up and running.
 
-Placez-vous dans le dossier et lancez la commande `vagrant up`
+## Usage
 
-Enfin tapez la commande `vagrant ssh`
+### SSH Access
 
-Félicitations, vous êtes maintenant dans votre vm vagrant.
+Execute `vagrant ssh`
+
+### View nginx webpage
+
+Go on <a href='http://localhost:8080'>http://localhost:8080</a>
+
+### Stop the Virtual Machine
+
+If you want to stop the virtual machine use `vagrant halt`
+
+## Uninstall
+
+If you need to uninstall this virtual machine use these commands :
+
+3. stop the virtual machine
+  3. `vagrant halt`
+3. Deleting the vm 
+  3. `vagrant destroy`
+
+When he demand say yes in the cmd.
+You can delete manually the `.vagrant` folder

@@ -3,7 +3,9 @@
 ## Info
 
 Mail : geoffrey.parrier@ynov.com
+
 github_username : @geoffreyparrier
+
 professor : @aegirops
 
 ## VM Config

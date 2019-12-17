@@ -12,7 +12,9 @@ professor : <a href='https://github.com/aegirops'>@aegirops</a>
 
 ### Libraires & Programs installed
 `nodejs@12
+
 openssh-server
+
 nginx`
 
 ## Prerequisites

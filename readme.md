@@ -4,7 +4,7 @@
 
 Mail : geoffrey.parrier@ynov.com
 
-github_username : - OS: <a href='https://github.com/geoffreyparrier'>@geoffreyparrier</a>
+github_username : <a href='https://github.com/geoffreyparrier'>@geoffreyparrier</a>
 
 professor : <a href='https://github.com/aegirops'>@aegirops</a>
 

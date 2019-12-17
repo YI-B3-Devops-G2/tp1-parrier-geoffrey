@@ -40,9 +40,9 @@ If you want to stop the virtual machine use `vagrant halt`
 If you need to uninstall this virtual machine use these commands :
 
 3. stop the virtual machine
-  1. `vagrant halt`
+    4. `vagrant halt`
 3. Deleting the vm 
-  1. `vagrant destroy`
+    4. `vagrant destroy`
   
 When he demand say yes in the cmd.
 You can delete manually the `.vagrant` folder

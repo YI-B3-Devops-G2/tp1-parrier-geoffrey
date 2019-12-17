@@ -11,7 +11,7 @@ professor : <a href='https://github.com/aegirops'>@aegirops</a>
 - OS: <a href='https://ubuntu.com/download/server'>Ubuntu Server</a>
 
 ### Libraires & Programs installed
-```bash
+```
 nodejs@12
 openssh-server
 nginx
@@ -30,7 +30,10 @@ nginx
 
 ## Usage
 ### SSH Access
-Execute `vagrant ssh`
+Execute
+```bash
+vagrant ssh
+```
 
 ### View nginx webpage
 Go on <a href='http://localhost:8080'>http://localhost:8080</a>
@@ -42,9 +45,13 @@ If you want to stop the virtual machine use `vagrant halt`
 If you need to uninstall this virtual machine use these commands :
 
 1. stop the virtual machine
-    * `vagrant halt`
+    * ```bash
+    vagrant halt
+    ```
 2. Deleting the vm 
-    * `vagrant destroy`
+    * ```bash
+    vagrant destroy
+    ```
   
 When he demand say yes in the cmd.
 You can delete manually the `.vagrant` folder

@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - initializing vagrant file
 - Create bootstrap script
 - install Nginx, OpenSSH-Server and NodeJS 12
-* Add a readme
+- Add a readme
 ### Changed
 - Opening https, http and ssh ports in vagrant file
 - Add virtual machine configuration (CPU, name, memory)

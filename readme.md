@@ -4,9 +4,9 @@
 
 Mail : geoffrey.parrier@ynov.com
 
-github_username : @geoffreyparrier
+github_username : - OS: <a href='https://github.com/geoffreyparrier'>@geoffreyparrier</a>
 
-professor : @aegirops
+professor : <a href='https://github.com/aegirops'>@aegirops</a>
 
 ## VM Config
 

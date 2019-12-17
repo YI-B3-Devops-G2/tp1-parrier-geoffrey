@@ -23,8 +23,8 @@ nginx`
 
 ## Installation / How to start
 1. Clone this repository `https://github.com/YI-B3-Devops/tp1-parrier-geoffrey`.
-1. Execute `vagrant up` and wait for the end of the installation and configuration.
-1. Your done ! The environment is up and running.
+2. Execute `vagrant up` and wait for the end of the installation and configuration.
+3. Your done ! The environment is up and running.
 
 ## Usage
 ### SSH Access
@@ -39,10 +39,10 @@ If you want to stop the virtual machine use `vagrant halt`
 ## Uninstall
 If you need to uninstall this virtual machine use these commands :
 
-3. stop the virtual machine
-    4. `vagrant halt`
-3. Deleting the vm 
-    4. `vagrant destroy`
+1. stop the virtual machine
+    * `vagrant halt`
+2. Deleting the vm 
+    * `vagrant destroy`
   
 When he demand say yes in the cmd.
 You can delete manually the `.vagrant` folder

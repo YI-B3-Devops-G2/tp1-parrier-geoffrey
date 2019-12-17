@@ -11,7 +11,7 @@ professor : <a href='https://github.com/aegirops'>@aegirops</a>
 - OS: <a href='https://ubuntu.com/download/server'>Ubuntu Server</a>
 
 ### Libraires & Programs installed
-```
+```bash
 nodejs@12
 openssh-server
 nginx

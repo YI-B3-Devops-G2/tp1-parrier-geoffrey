@@ -11,11 +11,11 @@ professor : <a href='https://github.com/aegirops'>@aegirops</a>
 - OS: <a href='https://ubuntu.com/download/server'>Ubuntu Server</a>
 
 ### Libraires & Programs installed
-`nodejs@12
+```nodejs@12
 
 openssh-server
 
-nginx`
+nginx```
 
 ## Prerequisites
 - <a href='https://www.vagrantup.com'>Vagrant</a>
